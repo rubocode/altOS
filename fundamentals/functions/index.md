@@ -1,0 +1,10 @@
+> [fundamentals](../)
+
+![banner](/altOS/photos/banner.png)
+
+## Cognitive Functions
+
+> Your vision will become clear only when you can look into your own heart.  
+> Who looks outside, dreams; who looks inside, awakes.  
+> **Carl Gustav Jung**
+
