@@ -5,7 +5,7 @@
 
 ![banner](/altOS/photos/banner.png)
 
-## Advanced Learning Technology Operating System™
+## Advanced Learning Technology Operating System&trade;
 
 > You don't understand anything until you learn it more than one way.  
 > **Marvin Minsky**
