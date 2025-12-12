@@ -2,6 +2,7 @@
 > &bull; [computing](/computing)
 > &bull; [learning](/learning)
 > &bull; [innovation](/innovation)
+> &bull; Work in progress...
 
 ![banner](/altOS/photos/banner.png)
 
